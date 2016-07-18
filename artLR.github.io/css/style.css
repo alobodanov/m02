@@ -53,29 +53,29 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         float: right;
     }
     #navigat > ul > .logo > a {
-        font-size: 26pt;
+        font-size: 20pt;
         color: #86939e;
         font-weight: bold;
         margin: -13px 0 0 0;
         position: absolute;
     }
     #navigat > ul > .logo > a > span{
-        margin: 15px 0 0 0;
-        font-size: 13pt;
+        margin: 7px 0 0 0;
+        font-size: 8pt;
         position: absolute;
         vertical-align: top;
     }
     #navigat > ul >.freeTrial > a{
         color: #86939e;
-        font-size: 13pt;
-        margin: 0 37px 0 0;
+        font-size: 8pt;
+        margin: 0 6px 0 0;
     }
     #navigat > ul > .buyNow > a{
         color: #86939e;
-        font-size: 13pt;
+        font-size: 8pt;
         border: 2px solid #e1e8ee;
         border-radius: 6px;
-        padding: 12px 25px;
+        padding: 7px 15px;
     }
     #navigat > ul > .buyNow > a:hover{
         background: #e1e8ee;
@@ -87,11 +87,11 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         text-align: center;
     }
     .information > span {
-        font-size: 30pt;
+        font-size: 25pt;
         color: #43484d;
     }
     .information > p {
-        font-size: 12pt;
+        font-size: 8pt;
         margin: 30px 0 121px 0;
         color: #6c7582;
     }
@@ -121,7 +121,7 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         margin: 0 0 108px;
     }
     #middleDsc > div {
-        font-size: 12pt;
+        font-size: 9pt;
         color: #43484c;
         margin: 0 0 47px 0;
     }
@@ -222,7 +222,7 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         margin: 100px 0 0 0;
     }
     #yourlicense > h6{
-        font-size: 32pt;
+        font-size: 25pt;
         color: #43484d;
         width: 100%;
         text-align: center;
@@ -237,7 +237,7 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
     #yourlicense > .row > .col{
         height: 490px;
         border: 2px solid #fff;
-        width: 412px;
+        width: 290px;
         margin: 50px 0;
         background: #fff;
         border-radius: 4px;
@@ -250,7 +250,7 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         border: 2px solid #cee0ee;
     }
     #yourlicense > .row > .col > p{
-        font-size: 16pt;
+        font-size: 12pt;
         margin: 59px 0 0 0;
         color: #86939e;
         text-align: center;
@@ -266,7 +266,7 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
     #yourlicense > .row > .col > .priceLic {
         float: left;
         padding: 10px 10px 0 25px;
-        font-size: 52pt;
+        font-size: 32pt;
         display: inline-table;
         color: #43484d;
     }
@@ -275,12 +275,13 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         vertical-align: top;
     }
     #yourlicense > .row > .col > .priceExp {
-        width: 380px;
-        margin: 40px 0 0;
+        width: 270px;
+        margin: 25px 0 0;
+        font-size: 9pt;
         color: #a1aab3;
     }
     #yourlicense > .row > .col > button{
-        width: 350px;
+        width: 245px;
         height: 58px;
         background: #7dc855;
         color: #fff;
@@ -299,12 +300,12 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         margin: 100px 0 35px 0;
         width: 100%;
         text-align: center;
-        font-size: 36pt;
+        font-size: 29pt;
         color: #43484d;
     }
     #OneofUs > .moduleOne {
         width: 100%;
-        font-size: 15pt;
+        font-size: 10pt;
         color: #5e6977;
         text-align: center;
     }
@@ -324,7 +325,7 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
         border-width:0px 0px 0px 1px;
         margin:0;
         width: 139px;
-        height: 92px;
+        height: 71px;
         margin: 0 0 0 -5px;
         background: #7dc855;
         color: #fff;
@@ -334,9 +335,8 @@ table, caption, tbody, tfoot, thead, tr, th, td, svg, rect {
     }
     #OneofUs > .inputChat > input[type='text']{
         /*background: url("img/path") no-repeat scroll 4px 4px;*/
-        content: "test";
-        width: 224px;
-        height: 58px;
+        width: 170px;
+        height: 36px;
         font-size: 16pt;
         padding: 16px 0 16px 50px;
         border: 2px solid #e1e8ee;
